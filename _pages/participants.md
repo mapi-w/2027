@@ -7,10 +7,12 @@ published: true
 hide: false
 ---
 
-The list below includes everyone who showed interest in participating in MAPiW.
+All students enrolled in the MAPi Seminar course unit will participate MAPiW.
 
+<!-- 
   - _Student 1_
   - _Student 2_
+ -->
 
 <!-- 
 ## Participants who are considering going
