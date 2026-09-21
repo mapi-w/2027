@@ -20,13 +20,13 @@
 
 include: [_pages]
 title: MAPiW 2027
-subtitle: MAPi Workshop 30.01.2027, in Porto, Portugal
-date: 30 January 2027
+subtitle: MAPi Workshop 29.01.2027, in Porto, Portugal
+date: 29 January 2027
 baseurl: "/2027" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 hidebar: false
 
-repository: mapiw/2027 # for github - username/repo
+repository: mapi-w/2027 # for github - username/repo
 copyright: "MAPiW 2027"
 # Build settings
 # theme: minima

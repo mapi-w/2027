@@ -4,14 +4,14 @@ permalink: /
 hide: true
 ---
 
-Welcome to the website of the X, which will be held on the 1st – 3rd October in Porto, Portugal, hosted by the University of Porto. 
+Welcome to the website of the MAPiW workshop, which will be held on the 29th January in Porto, Portugal, hosted by the Faculty of Sciences of the University of Porto. 
 
 
 
 ## Description
 {: .secondH}
 
-The X Workshop is a venue for the discussion of ...
+The MAPiW Workshop is a venue for the discussion of topics covered by the [MAP-i Doctoral Program](https://mapi.map.edu.pt/), including the areas of _foundations of computing_, _programming paradigms_ and _information technologies_. The core target audience are doctoral students registered in the corresponding doctoral program, who will be involved in the organization of this event. 
 
 <!--
 asynchronous programming patterns, languages and model, ranging from theoretical results, over applications and implementations to opinion and overview contributions. To create a welcoming atmosphere for the community, there are no proceedings – instead we welcome presentations on published, on-going or envisioned work. We especially encourage the participation of junior researchers and presentations that can be the basis for discussions on the future of the field.
@@ -72,7 +72,10 @@ If there are any inquiries or questions, feel free to contact the organizers:
 {: .secondH}
 
 {:style="text-align:center;"}
+[![University of Aveiro]({{ site.baseurl }}{% link assets/images/logo-ua.jpg %} "logoSmall")](https://ua.pt/){:target="blank"}
+[![University of Minho]({{ site.baseurl }}{% link assets/images/logo-um.jpg %} "logo")](https://uminho.pt/){:target="blank"}
 [![Faculty of Sciences of the University of Porto]({{ site.baseurl }}{% link assets/images/logo-fcup.png %} "logo")](https://fc.up.pt/){:target="blank"}
+[![Faculty of Engineering of the University of Porto]({{ site.baseurl }}{% link assets/images/logo-feup.webp %} "logo")](https://fe.up.pt/){:target="blank"}
 
 <!--
 [![University of Oslo]({{ site.baseurl }}{ % link assets/images/logo-uio.png %} "logo")](https://www.uio.no/english/){:target="blank"}
