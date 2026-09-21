@@ -13,6 +13,24 @@ Welcome to the website of the MAPiW workshop, which will be held on the 29th Jan
 
 The MAPiW Workshop is a venue for the discussion of topics covered by the [MAP-i Doctoral Program](https://mapi.map.edu.pt/), including the areas of _foundations of computing_, _programming paradigms_ and _information technologies_. The core target audience are doctoral students registered in the corresponding doctoral program, who will be involved in the organization of this event. 
 
+## Important dates (AoE)
+- __Abstract:__ Jan 11, 2026
+- __Paper:__ Jan 15, 2026
+- __Bidding:__ Jan 18, 2026
+- __Notification:__ Jan 25, 2027
+
+## Submission
+{: .secondH}
+
+Authors are invited to submit a 6-12 pages.
+
+Submissions should be in English and be formatted according to the Springer LNCS style (LaTeX2e Proceedings Templates) that can be found at the following link (http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+
+Papers must be submitted electronically in PDF using the online submission process via the EasyChair conference system at the following link
+
+ - https://easychair.org/conferences/?conf=mapiw2027
+
+
 <!--
 asynchronous programming patterns, languages and model, ranging from theoretical results, over applications and implementations to opinion and overview contributions. To create a welcoming atmosphere for the community, there are no proceedings – instead we welcome presentations on published, on-going or envisioned work. We especially encourage the participation of junior researchers and presentations that can be the basis for discussions on the future of the field.
 
