@@ -59,7 +59,7 @@ The workshop will be held at the University of Porto, located at the centre of t
 
 If there are any inquiries or questions, feel free to contact the organizers:
 
-- __General Organization:__ José Proença
+- __General Organization:__ José Proença, Univ. Porto, Portugal
 
 <!--
 - __Steering Committee:__ Einar Johnsen, Ferruccio Damiani, and Reiner Hähnle
