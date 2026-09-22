@@ -14,6 +14,8 @@ Welcome to the website of the MAPiW workshop, which will be held on the 29th Jan
 The MAPiW Workshop is a venue for the discussion of topics covered by the [MAP-i Doctoral Program](https://mapi.map.edu.pt/), including the areas of _foundations of computing_, _programming paradigms_ and _information technologies_. The core target audience are doctoral students registered in the corresponding doctoral program, who will be involved in the organization of this event. 
 
 ## Important dates (AoE)
+{: .secondH}
+
 - __Abstract:__ Jan 11, 2026
 - __Paper:__ Jan 15, 2026
 - __Bidding:__ Jan 18, 2026
