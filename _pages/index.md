@@ -24,9 +24,8 @@ The MAPiW Workshop is a venue for the discussion of topics covered by the [MAP-i
 ## Submission
 {: .secondH}
 
-Authors are invited to submit a 6-12 pages.
-
-Submissions should be in English and be formatted according to the Springer LNCS style (LaTeX2e Proceedings Templates) that can be found at the following link ([http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+Authors are invited to submit a **6-12 pages**.
+Submissions should be in English and be formatted according to the **Springer LNCS style** (LaTeX2e Proceedings Templates) that can be found at the following link: [http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 
 Papers must be submitted electronically in PDF using the online submission process via the EasyChair conference system at the following link
 
